@@ -1,6 +1,6 @@
-# OpenClaw — MSI Team Project WS 2026/27
+# Hermes — MSI Team Project WS 2026/27
 
-Running the OpenClaw agent against a self-hosted LLM (vLLM) and benchmarking
+Running the Hermes agent against a self-hosted LLM (vLLM) and benchmarking
 performance, answer quality and document extraction.
 
 ## Setup
@@ -17,7 +17,7 @@ cp .env.example .env   # fill in values
 - `packages/` — shared libraries
 - `benchmarks/` — suites, datasets (txt, pdf, …) and results
 - `scripts/` — dev/ops helpers
-- `infra/` — server configs (vLLM, OpenClaw, systemd)
+- `infra/` — server configs (vLLM, Hermes, systemd)
 - `docs/` — notes and reports
 
 Conventions for humans and AI agents: [AGENTS.md](AGENTS.md).
