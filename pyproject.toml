@@ -1,6 +1,6 @@
 # uv workspace root. The root is not packaged; apps and packages are the members.
 [project]
-name = "openclaw-monorepo"
+name = "hermes-monorepo"
 version = "0.0.0"
 requires-python = ">=3.12"
 dependencies = []
@@ -28,5 +28,5 @@ select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
 testpaths = ["apps", "packages"]
 addopts = "-ra -m 'not integration'"
 markers = [
-    "integration: needs real services (GPU server, OpenClaw host); skipped by default",
+    "integration: needs real services (GPU server, Hermes host); skipped by default",
 ]

@@ -6,7 +6,7 @@ PR when you change structure, tooling or conventions.
 
 ## Project
 
-Team project MSI WS 2026/27 — **OpenClaw**. We run the OpenClaw agent against a
+Team project MSI WS 2026/27 — **Hermes**. We run the Hermes agent ([NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)) against a
 self-hosted LLM (vLLM, OpenAI-compatible API) and evaluate it with benchmarks on
 real documents (txt, pdf, …).
 
@@ -36,7 +36,7 @@ Three benchmark dimensions:
 │   │       └── README.md # Source, license, what the dataset tests
 │   └── results/          # Benchmark output — gitignored, never commit
 ├── scripts/              # Dev/ops helpers (setup, run benchmarks, deploy, serve model)
-├── infra/                # Server configs: vLLM serve scripts, OpenClaw config, systemd units
+├── infra/                # Server configs: vLLM serve scripts, Hermes config, systemd units
 ├── docs/                 # Design notes, benchmark methodology, reports
 ├── pyproject.toml        # uv workspace root (members: apps/*, packages/*)
 ├── uv.lock               # Single lockfile for the whole repo — commit it
@@ -52,7 +52,7 @@ Rules:
 - One-off scripts go in `scripts/`. If a script grows real logic, move it into a package
   and keep a thin wrapper in `scripts/`.
 - Package names use `snake_case` for the import name and `kebab-case` for the
-  distribution name (`openclaw-bench` → `import openclaw_bench`).
+  distribution name (`hermes-bench` → `import hermes_bench`).
 
 ## Tooling
 
@@ -93,9 +93,9 @@ Never edit `uv.lock` by hand.
 ## Infrastructure
 
 - **LLM server**: vLLM on the HTWG GPU host (SSH alias `gpu-htwg`), OpenAI-compatible API.
-- **OpenClaw host**: separate VM, reached via SSH as the team admin user.
+- **Hermes host**: separate VM, reached via SSH as the team admin user.
 - Endpoints, hosts, model names and keys come from environment variables (see
-  `.env.example`), e.g. `LLM_BASE_URL`, `LLM_MODEL`, `LLM_API_KEY`, `OPENCLAW_HOST`.
+  `.env.example`), e.g. `LLM_BASE_URL`, `LLM_MODEL`, `LLM_API_KEY`, `HERMES_HOST`.
 - Both hosts are only reachable from the HTWG network / VPN.
 - The GPU host is shared: don't stop or restart a model server someone else started
   without asking in the team chat. Long downloads/servers run detached (systemd/tmux),
