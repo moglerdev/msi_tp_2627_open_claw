@@ -1,0 +1,1 @@
+Betreff: Gefundene blaue Jacke. Hallo Frau Krug, hier schreibt Uwe Ott an Elise Krug. Im Fundbüro liegt eine blaue Jacke mit dem Namen Emma. Bitte holen Sie die Jacke im Hausmeisterraum ab. Sie können bis zum 19. Juni 2026 kommen. Das eilt nicht. Meine E-Mail ist uwe.ott@example.com und Ihre E-Mail ist elise.krug@example.com.

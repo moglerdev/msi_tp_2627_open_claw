@@ -1,0 +1,1 @@
+Subject: Football invitation. Hello Mrs Mehdi, my name is Jonas Kraft. I invite you to a football game. We play on 18 April 2026 at 14:30 on the sports field at the Volkspark in Kiel. Please reply by 15 April 2026. My email is jonas.kraft@example.com and your email is sara.mehdi@example.com.

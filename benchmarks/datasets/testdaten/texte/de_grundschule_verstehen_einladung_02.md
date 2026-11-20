@@ -1,0 +1,1 @@
+Betreff: Einladung zum Klassenfest. Hallo Herr Otto, hier ist Lea Sommer aus der Klasse 2a. Unser Klassenfest ist am 8. Mai 2026 um 10:00 Uhr in der Turnhalle der Grundschule Kiel-Süd, Rostocker Straße 12, Kiel. Bitte sagen Sie bis zum 1. Mai 2026 Bescheid. Meine E-Mail ist lea.sommer@example.com. Ihre E-Mail ist paul.otto@example.com.

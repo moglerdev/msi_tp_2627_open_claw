@@ -1,0 +1,1 @@
+Betreff: Frage zu Spinnen. Hallo Herr Otto, ich bin Lea Sommer. Im Sachunterricht haben wir Tiere angeschaut. Wie viele Beine hat eine Spinne? Ich bin mir nicht sicher. Meine E-Mail ist lea.sommer@example.com und Ihre E-Mail ist paul.otto@example.com. Wir haben ein Bild an der Tafel gesehen.

@@ -1,0 +1,1 @@
+Betreff: Vertretung für Frau Berg. Thea Paul schreibt an Olaf Kraft. Frau Berg ist am 8. Juni 2026 krank, und Frau Ali unterrichtet die Klasse 3b. Bitte geben Sie Jonas die Sportsachen mit. Antworten Sie bis zum 7. Juni 2026. Das ist wichtig. Meine E-Mail ist thea.paul@example.com und Ihre E-Mail ist olaf.kraft@example.com.

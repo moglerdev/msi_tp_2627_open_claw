@@ -1,0 +1,1 @@
+Betreff: Frage zu Bienen. Hallo Herr Lindt, ich bin Emma Krug. Wir haben im Garten Bienen gesehen. Was stellen Bienen her? Ich möchte es genau wissen. Meine E-Mail ist emma.krug@example.com und Ihre E-Mail ist max.lindt@example.com. Sie flogen von Blüte zu Blüte. Ich habe sie leise beobachtet.

@@ -1,0 +1,1 @@
+Betreff: Einladung zum Schulfest. Hallo Herr Baum, ich bin Mia Horn. Ich lade Sie zu unserem Schulfest ein. Es ist am 11. September 2026 um 11:00 Uhr auf dem Schulhof der Grundschule Kiel-Süd, Rostocker Straße 12, Kiel. Bitte sagen Sie bis zum 4. September 2026 Bescheid. Meine E-Mail ist mia.horn@example.com.

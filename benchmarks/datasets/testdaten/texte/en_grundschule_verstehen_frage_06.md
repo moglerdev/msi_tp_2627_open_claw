@@ -1,0 +1,1 @@
+Subject: A question. Hello Mr Baum, I am Mia Horn. I have a question from general studies, and I am practising questions. What is the capital of that country? Please write to me if you understand me. My email is mia.horn@example.com and your email is hans.baum@example.com.

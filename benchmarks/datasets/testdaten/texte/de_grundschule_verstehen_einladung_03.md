@@ -1,0 +1,1 @@
+Betreff: Einladung zum Fußball. Hallo Frau Mehdi, ich heiße Jonas Kraft. Ich lade Sie zum Fußballspiel ein. Wir spielen am 18. April 2026 um 14:30 Uhr auf dem Sportplatz am Volkspark in Kiel. Bitte sagen Sie bis zum 15. April 2026 zu. Meine E-Mail ist jonas.kraft@example.com und Ihre E-Mail ist sara.mehdi@example.com.

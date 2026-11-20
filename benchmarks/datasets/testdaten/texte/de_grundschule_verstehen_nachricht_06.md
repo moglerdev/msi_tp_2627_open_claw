@@ -1,0 +1,1 @@
+Betreff: Pause in der Aula. Hallo Herr Horn, hier schreibt Ina Berg an Sven Horn. Bei Regen am 3. März 2026 bleibt die Klasse 3b in der Aula. Bitte geben Sie Mia Hausschuhe mit. Sie können mir bis zum 2. März 2026 schreiben. Das eilt nicht. Meine E-Mail ist ina.berg@example.com und Ihre E-Mail ist sven.horn@example.com.

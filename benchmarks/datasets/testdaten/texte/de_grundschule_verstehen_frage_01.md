@@ -1,0 +1,1 @@
+Betreff: Frage zur Hauptstadt. Hallo Frau Berg, ich bin Tim Weber. Wir hatten Sachunterricht, und ich möchte etwas fragen. Wie heißt die Hauptstadt von Deutschland? Bitte schreiben Sie mir die Antwort. Meine E-Mail ist tim.weber@example.com und Ihre E-Mail ist ina.berg@example.com. Ich war noch nie dort.

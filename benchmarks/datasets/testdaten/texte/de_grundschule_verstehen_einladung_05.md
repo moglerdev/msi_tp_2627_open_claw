@@ -1,0 +1,1 @@
+Betreff: Einladung zum Basteln. Hallo Frau Koch, ich bin Finn Abel. Ich lade Sie zum Bastelnachmittag ein. Wir basteln am 2. Juli 2026 um 13:00 Uhr im Klassenraum 2a, Grundschule Kiel-Süd, Rostocker Straße 12, Kiel. Bitte sagen Sie bis zum 28. Juni 2026 zu. Meine E-Mail ist finn.abel@example.com. Ihre E-Mail ist nora.koch@example.com.

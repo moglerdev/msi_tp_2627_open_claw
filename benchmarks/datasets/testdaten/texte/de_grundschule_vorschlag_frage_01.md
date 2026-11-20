@@ -1,0 +1,1 @@
+Notizen von Jonas Kraft, jonas.kraft@example.com. Er schreibt an Sara Mehdi, sara.mehdi@example.com. Betreff: Frage zu den Kontinenten. Jonas möchte in der Mail fragen, wie viele Kontinente es gibt. Er bittet um eine kurze Antwort. Die Antwort soll nicht auf dem Notizzettel stehen. Jonas wartet auf die Mail, nicht auf einen Versandhinweis.

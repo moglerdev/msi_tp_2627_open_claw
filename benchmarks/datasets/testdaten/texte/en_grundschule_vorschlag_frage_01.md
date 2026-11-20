@@ -1,0 +1,1 @@
+Notes from Jonas Kraft, jonas.kraft@example.com. He is writing to Sara Mehdi, sara.mehdi@example.com. Subject: Question about the continents. Jonas wants the email to ask how many continents there are. He asks for a short answer. The answer should not be on the note. Jonas is waiting for the draft, not for a sending note.

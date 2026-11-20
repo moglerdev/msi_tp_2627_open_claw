@@ -1,0 +1,1 @@
+Subject: Trip is cancelled. Dear Weber family, this is Ina Berg writing to Lars Weber. The class 3b zoo trip will not take place. Please send Tim to school as usual on 14 May 2026. Please reply by 13 May 2026. This is urgent. My email is ina.berg@example.com and your email is lars.weber@example.com.

@@ -1,0 +1,1 @@
+Notes from Tim Weber, tim.weber@example.com. He wants to invite Ina Berg, ina.berg@example.com, to fly a kite. The subject should be Invitation to fly a kite. Meeting on 20 May 2026 at 16:00 on the meadow at Schrevenpark in Kiel. Reply by 16 May 2026. Tim will bring a string.

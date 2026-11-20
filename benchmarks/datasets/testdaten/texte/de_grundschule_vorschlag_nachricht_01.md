@@ -1,0 +1,1 @@
+Notizen von Ina Berg, ina.berg@example.com, an Lars Weber, lars.weber@example.com. Betreff: Regenjacke für den Zoo. Die Klasse 3b fährt am 18. Juni 2026 in den Zoo. Bitte geben Sie Tim eine Regenjacke mit. Antwort bis zum 17. Juni 2026. Das ist wichtig. Tim soll die Jacke im Ranzen lassen.

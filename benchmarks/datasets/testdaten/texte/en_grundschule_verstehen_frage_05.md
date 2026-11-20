@@ -1,0 +1,1 @@
+Subject: Question about the week. Hello Mrs Koch, I am Finn Abel. I am learning the days right now. How many days are in a week? Can you tell me? My email is finn.abel@example.com and your email is nora.koch@example.com. I count them in my notebook.

@@ -1,0 +1,1 @@
+Betreff: Frage zur Woche. Hallo Frau Koch, ich bin Finn Abel. Ich lerne gerade die Tage. Wie viele Tage hat eine Woche? Können Sie es mir sagen? Meine E-Mail ist finn.abel@example.com und Ihre E-Mail ist nora.koch@example.com. Ich zähle sie in meinem Heft. Die Namen stehen an der Tafel.

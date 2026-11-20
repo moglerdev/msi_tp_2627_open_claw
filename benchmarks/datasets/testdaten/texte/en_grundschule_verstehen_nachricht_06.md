@@ -1,0 +1,1 @@
+Subject: Break in the hall. Ina Berg writes to Sven Horn. If it rains on 3 March 2026, class 3b stays in the assembly hall. Please give Mia indoor shoes. Write to me by 2 March 2026. This is not urgent. My email is ina.berg@example.com and your email is sven.horn@example.com.

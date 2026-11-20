@@ -1,0 +1,1 @@
+Subject: Sleepover invitation. Hello Mr Lutz, I am Ben Lutz. I invite you to a sleepover. We start at 18:00 in my bedroom at Möwenweg 8, Kiel. Please reply by 3 July 2026. My email is ben.lutz@example.com and your email is kai.lutz@example.com. I have a mattress and a blanket ready.

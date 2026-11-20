@@ -1,0 +1,1 @@
+Subject: Class party invitation. Hello Mr Otto, this is Lea Sommer from class 2a. Our class party is on 8 May 2026 at 10:00 in the gym of Kiel-Süd primary school, Rostocker Straße 12, Kiel. Please reply by 1 May 2026. My email is lea.sommer@example.com. Your email is paul.otto@example.com.

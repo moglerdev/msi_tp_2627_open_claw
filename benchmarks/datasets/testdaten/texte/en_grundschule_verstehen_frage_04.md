@@ -1,0 +1,1 @@
+Subject: Question about bees. Hello Mr Lindt, I am Emma Krug. We saw bees in the garden. What do bees make? I want to know it exactly. My email is emma.krug@example.com and your email is max.lindt@example.com. They flew from flower to flower. I watched them very quietly.

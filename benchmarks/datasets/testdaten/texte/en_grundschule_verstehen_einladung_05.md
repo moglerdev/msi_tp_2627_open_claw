@@ -1,0 +1,1 @@
+Subject: Craft afternoon invitation. Hello Mrs Koch, I am Finn Abel. I invite you to a craft afternoon. We make things on 2 July 2026 at 13:00 in classroom 2a, Kiel-Süd primary school, Rostocker Straße 12, Kiel. Please reply by 28 June 2026. My email is finn.abel@example.com. Your email is nora.koch@example.com.

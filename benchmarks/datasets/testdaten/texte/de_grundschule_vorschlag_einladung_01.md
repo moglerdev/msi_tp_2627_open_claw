@@ -1,0 +1,1 @@
+Notizen von Tim Weber, tim.weber@example.com. Er will Ina Berg, ina.berg@example.com, zum Drachensteigen einladen. Der Betreff soll Einladung zum Drachensteigen sein. Treffen am 20. Mai 2026 um 16:00 Uhr auf der Wiese am Schrevenpark in Kiel. Zusage bis zum 16. Mai 2026. Tim bringt eine Schnur mit.

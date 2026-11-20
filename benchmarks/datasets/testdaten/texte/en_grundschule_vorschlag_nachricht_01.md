@@ -1,0 +1,1 @@
+Notes from Ina Berg, ina.berg@example.com, to Lars Weber, lars.weber@example.com. Subject: Rain jacket for the zoo. Class 3b goes to the zoo on 18 June 2026. Please give Tim a rain jacket to take. Reply by 17 June 2026. This is important. Tim should leave the jacket in his bag.

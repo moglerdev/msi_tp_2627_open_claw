@@ -1,0 +1,1 @@
+Subject: Invitation to story time. Dear Mr Lindt, I am Emma Krug. I invite you to story time. It is on 20 March 2026 at 09:30 in Kiel city library, Andreas-Gayk-Straße 31. Please reply by 16 March 2026. My email is emma.krug@example.com. Your email is max.lindt@example.com.

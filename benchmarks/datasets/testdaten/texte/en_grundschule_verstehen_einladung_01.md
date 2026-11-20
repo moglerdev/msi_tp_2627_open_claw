@@ -1,0 +1,1 @@
+Subject: Birthday invitation. Dear Mrs Berg, I am Tim Weber from class 3b. I invite you to my birthday. We celebrate on 12 June 2026 at 15:00 in the garden at Lindenstraße 4, Kiel. Please reply by 5 June 2026. My email is tim.weber@example.com and your email is ina.berg@example.com.
