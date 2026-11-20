@@ -1,0 +1,32 @@
+# uv workspace root. The root is not packaged; apps and packages are the members.
+[project]
+name = "openclaw-monorepo"
+version = "0.0.0"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = false
+
+[tool.uv.workspace]
+members = ["apps/*", "packages/*"]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.8",
+    "pytest>=8",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+
+[tool.pytest.ini_options]
+testpaths = ["apps", "packages"]
+addopts = "-ra -m 'not integration'"
+markers = [
+    "integration: needs real services (GPU server, OpenClaw host); skipped by default",
+]

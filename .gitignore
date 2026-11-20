@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Benchmark output
+benchmarks/results/*
+!benchmarks/results/.gitkeep
+
+# Model weights / caches
+*.gguf
+*.safetensors
+.cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
