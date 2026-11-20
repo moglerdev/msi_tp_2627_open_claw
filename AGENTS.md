@@ -123,7 +123,12 @@ Never edit `uv.lock` by hand.
 
 ## Git workflow
 
-- Never push directly to `main`. Branch → PR → at least one review.
+- `main` is a **protected branch**: direct pushes are rejected by GitHub, for admins too.
+  Every change goes through a pull request.
+- A PR can only be merged after **another team member** approved it. Your own approval
+  doesn't count, neither does one from whoever pushed the last commit. New commits
+  dismiss existing approvals, and all review conversations must be resolved.
+- Workflow: branch off `main` → commit → push the branch → open a PR → get a review → merge.
 - Branch names: `feat/…`, `fix/…`, `bench/…`, `docs/…`, `chore/…`.
 - Commits follow **Conventional Commits**, optionally with scope = app/package:
   `feat(bench): add pdf extraction suite`.
@@ -133,6 +138,9 @@ Never edit `uv.lock` by hand.
 ## For agents
 
 - Read this file and the README of the app/package you touch before changing code.
+- Never commit to or push `main`, and never try to bypass branch protection
+  (force push, admin override). Work on a feature branch and open a PR; a human
+  reviewer approves and merges it.
 - Prefer small, reviewable changes; don't reformat unrelated files.
 - Don't run benchmarks or SSH into team servers unless explicitly asked — they cost
   shared GPU time.

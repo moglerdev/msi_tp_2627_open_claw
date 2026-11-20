@@ -17,4 +17,6 @@ Claude Code specifics.
   on the changed files, then the tests of the affected member.
 - Before SSH into `gpu-htwg` or the OpenClaw host, or before starting/stopping a model
   server, ask the user first — these are shared team resources.
-- Commit only when asked. Use Conventional Commits in English.
+- Commit only when asked, and only on a feature branch — `main` is protected and
+  needs a reviewed PR (see "Git workflow" in AGENTS.md). Use Conventional Commits
+  in English.
