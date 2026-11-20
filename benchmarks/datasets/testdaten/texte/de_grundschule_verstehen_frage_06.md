@@ -1,0 +1,1 @@
+Betreff: Eine Frage. Hallo Herr Baum, ich bin Mia Horn. Ich habe eine Frage aus dem Sachunterricht, und ich übe gerade Fragen. Wie heißt die Hauptstadt von dem Land? Bitte schreiben Sie mir, wenn Sie mich verstehen. Meine E-Mail ist mia.horn@example.com und Ihre E-Mail ist hans.baum@example.com.

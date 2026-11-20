@@ -1,0 +1,1 @@
+Subject: Question about the capital. Hello Mrs Berg, I am Tim Weber. We had general studies, and I want to ask something. What is the capital of Germany? Please write the answer to me. My email is tim.weber@example.com and your email is ina.berg@example.com. I have never been there.

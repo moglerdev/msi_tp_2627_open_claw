@@ -1,0 +1,1 @@
+Betreff: Schwimmen in der Halle. Hallo Frau Lutz, hier schreibt Leila Ali an Ruth Lutz. Die Klasse 3b hat Schwimmen in der Schwimmhalle Kiel-Nord. Bitte packen Sie Ben Handtuch und Badehose ein. Das ist wichtig. Meine E-Mail ist leila.ali@example.com und Ihre E-Mail ist ruth.lutz@example.com. Ben soll die Sachen in seinen Rucksack legen.

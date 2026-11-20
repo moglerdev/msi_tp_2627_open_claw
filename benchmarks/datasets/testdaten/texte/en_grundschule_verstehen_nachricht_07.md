@@ -1,0 +1,1 @@
+Subject: Swimming at the pool. Hello Mrs Lutz, this is Leila Ali writing to Ruth Lutz. Class 3b has swimming at the Kiel-Nord pool. Please pack a towel and swim trunks for Ben. This is important. My email is leila.ali@example.com and your email is ruth.lutz@example.com.

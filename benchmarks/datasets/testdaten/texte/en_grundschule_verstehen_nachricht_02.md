@@ -1,0 +1,1 @@
+Subject: Reading homework. Hello Mrs Sommer, this is Ina Berg writing to Nina Sommer. Lea should read pages 12 to 14 in the reader. Please practise these pages with Lea. The homework should be done by 24 April 2026. This is important. My email is ina.berg@example.com and your email is nina.sommer@example.com.

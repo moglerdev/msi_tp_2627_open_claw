@@ -1,0 +1,1 @@
+Betreff: Einladung zum Geburtstag. Liebe Frau Berg, ich bin Tim Weber aus der Klasse 3b. Ich lade Sie zu meinem Geburtstag ein. Wir feiern am 12. Juni 2026 um 15:00 Uhr im Garten, Lindenstraße 4, Kiel. Bitte sagen Sie bis zum 5. Juni 2026 zu. Meine E-Mail ist tim.weber@example.com und Ihre E-Mail ist ina.berg@example.com.

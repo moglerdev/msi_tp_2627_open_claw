@@ -1,0 +1,1 @@
+Notes from Lea Sommer, lea.sommer@example.com. She wants to invite Paul Otto to bake cookies. Subject: Invitation to bake. Date on 6 December 2026 at 14:00 in the school kitchen, Rostocker Straße 12, Kiel. Reply by 1 December 2026. Lea wants to cut out stars and hearts.

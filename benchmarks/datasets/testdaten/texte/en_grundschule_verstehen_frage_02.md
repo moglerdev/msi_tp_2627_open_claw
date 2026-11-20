@@ -1,0 +1,1 @@
+Subject: Question about spiders. Hello Mr Otto, I am Lea Sommer. In general studies we looked at animals. How many legs does a spider have? I am not sure. My email is lea.sommer@example.com and your email is paul.otto@example.com. We saw a picture on the board.

@@ -1,0 +1,1 @@
+Betreff: Neuer Treffpunkt. Jens Blum schreibt an Mira Abel. Das Fußballtraining ist am Haupttor, nicht an der Turnhalle. Bringen Sie Finn am 22. April 2026 um 16:00 Uhr zum Haupttor der Grundschule Kiel-Süd. Geben Sie bis zum 21. April 2026 Bescheid. Das ist dringend. Meine E-Mail ist jens.blum@example.com und Ihre E-Mail ist mira.abel@example.com.

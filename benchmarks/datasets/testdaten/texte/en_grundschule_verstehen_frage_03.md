@@ -1,0 +1,1 @@
+Subject: Question about the seasons. Hello Mrs Mehdi, I am Jonas Kraft. In class we talk about the year. Which season comes after winter? Please help me. My email is jonas.kraft@example.com and your email is sara.mehdi@example.com. After that it gets warmer again. I will draw winter in my notebook.

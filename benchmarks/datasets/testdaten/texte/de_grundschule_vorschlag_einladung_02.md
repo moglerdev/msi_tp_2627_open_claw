@@ -1,0 +1,1 @@
+Notizen von Lea Sommer, lea.sommer@example.com. Sie will Paul Otto zum Plätzchenbacken einladen. Betreff: Einladung zum Backen. Termin am 6. Dezember 2026 um 14:00 Uhr in der Schulküche, Rostocker Straße 12, Kiel. Zusage bis zum 1. Dezember 2026. Lea möchte Sterne und Herzen ausstechen. Der Teig soll schon kalt sein.

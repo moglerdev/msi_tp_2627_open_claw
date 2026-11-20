@@ -1,0 +1,1 @@
+Betreff: Ausflug fällt aus. Liebe Familie Weber, hier schreibt Ina Berg an Lars Weber. Der Zoo-Ausflug der Klasse 3b findet nicht statt. Bitte schicken Sie Tim am 14. Mai 2026 normal in die Schule. Antworten Sie bitte bis zum 13. Mai 2026. Das ist dringend. Meine E-Mail ist ina.berg@example.com und Ihre E-Mail ist lars.weber@example.com.

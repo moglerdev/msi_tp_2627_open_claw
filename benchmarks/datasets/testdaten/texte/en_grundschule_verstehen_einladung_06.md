@@ -1,0 +1,1 @@
+Subject: School fair invitation. Hello Mr Baum, I am Mia Horn. I invite you to our school fair. It is on 11 September 2026 at 11:00 in the schoolyard of Kiel-Süd primary school, Rostocker Straße 12, Kiel. Please reply by 4 September 2026. My email is mia.horn@example.com.

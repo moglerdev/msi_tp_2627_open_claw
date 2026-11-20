@@ -1,0 +1,1 @@
+Subject: Cover for Mrs Berg. Hello Mr Kraft, this is Thea Paul writing to Olaf Kraft. Mrs Berg is ill on 8 June 2026, and Mrs Ali will teach class 3b. Please still give Jonas his sports kit. Reply by 7 June 2026. This is important. My email is thea.paul@example.com and your email is olaf.kraft@example.com.

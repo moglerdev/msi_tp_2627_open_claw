@@ -1,0 +1,1 @@
+Betreff: Frage zu den Jahreszeiten. Hallo Frau Mehdi, ich bin Jonas Kraft. Wir sprechen im Unterricht über das Jahr. Welche Jahreszeit kommt nach dem Winter? Bitte helfen Sie mir. Meine E-Mail ist jonas.kraft@example.com und Ihre E-Mail ist sara.mehdi@example.com. Danach wird es wieder wärmer. Ich male den Winter in mein Heft.

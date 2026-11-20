@@ -1,0 +1,1 @@
+Betreff: Hausaufgaben im Lesebuch. Hallo Frau Sommer, hier schreibt Ina Berg an Nina Sommer. Lea soll die Seiten 12 bis 14 im Lesebuch lesen. Bitte üben Sie diese Seiten mit Lea. Die Hausaufgaben sollen bis zum 24. April 2026 fertig sein. Das ist wichtig. Meine E-Mail ist ina.berg@example.com und Ihre E-Mail ist nina.sommer@example.com.

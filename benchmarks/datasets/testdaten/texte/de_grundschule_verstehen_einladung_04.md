@@ -1,0 +1,1 @@
+Betreff: Einladung zum Vorlesen. Lieber Herr Lindt, ich bin Emma Krug. Ich lade Sie zur Vorlesestunde ein. Sie ist am 20. März 2026 um 09:30 Uhr in der Stadtbibliothek Kiel, Andreas-Gayk-Straße 31. Bitte sagen Sie bis zum 16. März 2026 Bescheid. Meine E-Mail ist emma.krug@example.com. Ihre E-Mail ist max.lindt@example.com.

@@ -1,0 +1,1 @@
+Betreff: Einladung zur Übernachtung. Hallo Herr Lutz, ich bin Ben Lutz. Ich lade Sie zur Übernachtung ein. Wir starten um 18:00 Uhr in meinem Kinderzimmer, Möwenweg 8, Kiel. Bitte sagen Sie bis zum 3. Juli 2026 Bescheid. Meine E-Mail ist ben.lutz@example.com und Ihre E-Mail ist kai.lutz@example.com.
