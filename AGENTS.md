@@ -92,7 +92,7 @@ Never edit `uv.lock` by hand.
 
 ## Infrastructure
 
-- **LLM server**: vLLM on the HTWG GPU host (SSH alias `gpu-htwg`), OpenAI-compatible API.
+- **LLM server**: vLLM on the HTWG GPU host (SSH alias kept out of the repo, see below), OpenAI-compatible API.
 - **Hermes host**: separate VM, reached via SSH as the team admin user.
 - Endpoints, hosts, model names and keys come from environment variables (see
   `.env.example`), e.g. `LLM_BASE_URL`, `LLM_MODEL`, `LLM_API_KEY`, `HERMES_HOST`.
@@ -109,6 +109,18 @@ Never edit `uv.lock` by hand.
   `.env.example` lists variable names only.
 - Do not paste secrets into code, tests, benchmark results, logs, issues or PRs.
 - The vLLM endpoint has no authentication — don't expose it publicly or post its address.
+- **Censor everything sensitive.** This repository is public, so anything that ends up in
+  a file, commit message, PR, issue, log, benchmark result or doc is public forever
+  (git history included). Replace it with a placeholder such as `<gpu-host>`,
+  `<proxy-host>`, `<user>`, `<token>` or `[REDACTED]` before writing it down. Sensitive means:
+  - credentials: passwords, tokens, API keys, private keys, cookies, connection strings
+  - hosts: IP addresses, hostnames and SSH aliases of team servers, internal URLs, ports
+    of internal services, account and user names on those hosts
+  - personal data: real names, e-mail addresses, phone numbers, addresses, IDs, student
+    numbers; use clearly fake data in tests and examples
+  - private material: chat logs, audit logs, model outputs or documents that contain any of the above
+  If something sensitive was committed anyway, don't just delete it in a new commit:
+  tell the team, rotate the credential and have the history cleaned.
 
 ## Code conventions
 
