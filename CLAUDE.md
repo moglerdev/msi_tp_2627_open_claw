@@ -15,8 +15,12 @@ Claude Code specifics.
 - Use `uv run …` for every Python command — never call `python`/`pip` directly.
 - After editing Python files, run `uv run ruff check --fix` and `uv run ruff format`
   on the changed files, then the tests of the affected member.
-- Before SSH into `gpu-htwg` or the Hermes host, or before starting/stopping a model
+- Before SSH into the GPU host or the Hermes host, or before starting/stopping a model
   server, ask the user first — these are shared team resources.
 - Commit only when asked, and only on a feature branch — `main` is protected and
   needs a reviewed PR (see "Git workflow" in AGENTS.md). Use Conventional Commits
   in English.
+- Censor everything sensitive (credentials, IPs, hostnames, SSH aliases, usernames, personal
+  data) with placeholders like `<gpu-host>` or `[REDACTED]` in every file, commit message,
+  PR and reply you write for this public repo — see "Secrets & privacy" in AGENTS.md.
+  This includes command output you paste: censor it first.
